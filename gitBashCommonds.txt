@@ -1,0 +1,12 @@
+gitbash  commonds  : -
+
+1)git init      = to create a local repository
+2)git checkout -b branchName   = to create and chckout to new branch
+3)git add . = to add all file to staging area
+4)git add fileNAme = to add sigle given file to staging area
+5)git checkout branchName = to chack out to given local branch
+6)git commit -m "massage " = to commit the changes
+
+7)To set local Account 
+  7) git config --global user.email "email"
+  8)git config --global user.name "name"
